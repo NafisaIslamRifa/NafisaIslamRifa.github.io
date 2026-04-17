@@ -23,7 +23,7 @@ repository               : "NafisaIslamRifa/NafisaIslamRifa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "image.png"
   name             : "Nafisa Islam Rifa"
   pronouns         : # example: "she/her"  
   bio              : "MSc Data Science , University of Greenwich"
