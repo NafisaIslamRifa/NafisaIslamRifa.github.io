@@ -1,14 +1,27 @@
 ---
-title: "Paper Title Number 1"
+title: "Multimodal Emotion Recognition Using Visual and Thermal Image Fusion: A Deep Learning Approach"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2025-05-10-multimodal-emotion-recognition
+excerpt: "This paper presents a multimodal emotion recognition framework that integrates visual and thermal image data using deep learning. The proposed approach leverages complementary features from both modalities to improve robustness under challenging conditions such as illumination variation and occlusion."
+date: 2025-05-10
+venue: 'Published in IEEE Access.'
+paperurl: 'https://ieeexplore.ieee.org/document/11022356'
+bibtexurl: ''
+citation: '@INPROCEEDINGS{11022356,
+title = {Multimodal Emotion Recognition Using Visual and Thermal Image Fusion: A Deep Learning Approach},
+author = {Iftekhar Mahmud,Puja Rani Das; Nafisa Islam Rifa; Irfan Hossain; Raiyan Rahman; Dewan Md. Farid},
+journal = {IEEE Access},
+year = {2025},
+doi = {10.1109/ACCESS.2025.11022356},
+url = {https://ieeexplore.ieee.org/document/11022356}
+}'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+Emotion recognition systems often struggle in real-world conditions due to issues like poor lighting, occlusion, and noise. To overcome these limitations, this work proposes a multimodal approach that combines visual and thermal images.
+
+The model uses deep learning to extract and fuse features from both modalities. Visual data captures facial expressions, while thermal data remains stable under changing lighting conditions, leading to better overall representation.
+
+Experimental results show that the proposed method performs better than single-modality approaches, especially in low-light and occluded environments.
+
+This research demonstrates that combining visual and thermal data can improve the accuracy and reliability of emotion recognition systems, with applications in areas such as human-computer interaction, healthcare, and surveillance.
