@@ -1,20 +1,27 @@
 ---
-title: "Teaching experience 1"
+title: "Build Large Language Model from Scratch"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "AI / Deep Learning Project"
+permalink: /teaching/2025-llm-from-scratch
+venue: "Personal Research & Development"
+date: 2025-01-01
+location: "London, United Kingdom"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Developed a GPT-like Large Language Model from scratch based on the book *Build a Large Language Model (From Scratch)* by Sebastian Raschka.
 
-Heading 1
-======
+## Key Contributions
 
-Heading 2
-======
+- Implemented transformer-based architecture from the ground up.
+- Built tokenization, embeddings, and positional encoding modules.
+- Trained an autoregressive language model for text generation.
+- Explored self-attention, feed-forward networks, and sampling methods.
+- Gained hands-on experience in end-to-end LLM development.
 
-Heading 3
-======
+## Technologies Used
+
+- Python  
+- PyTorch  
+- NumPy  
+- Deep Learning  
+- NLP
