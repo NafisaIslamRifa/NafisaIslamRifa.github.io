@@ -1,20 +1,31 @@
 ---
-title: "Teaching experience 2"
+title: "Future Electricity Demand Prediction in Bangladesh"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Machine Learning / Forecasting Project"
+permalink: /teaching/2025-electricity-demand-prediction
+venue: "Personal Research Project"
+date: 2025-01-01
+location: "Bangladesh"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Developed a forecasting system to predict future electricity demand in Bangladesh using historical energy and environmental data.
 
-Heading 1
-======
+## Key Contributions
 
-Heading 2
-======
+- Collected 10 years of electricity demand data from the PGCB website.
+- Built a structured dataset including fuel usage, temperature, and other relevant features.
+- Performed preprocessing, feature engineering, and model preparation.
+- Developed hybrid deep learning models:
+  - CNN-LSTM
+  - RNN-LSTM
+- Benchmarked results against XGBoost baseline models.
+- Achieved improved forecasting accuracy and stronger model reliability.
 
-Heading 3
-======
+## Technologies Used
+
+- Python  
+- TensorFlow / Keras  
+- XGBoost  
+- Pandas  
+- NumPy  
+- Time Series Forecasting
