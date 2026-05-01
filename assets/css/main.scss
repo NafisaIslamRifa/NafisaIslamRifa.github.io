@@ -41,3 +41,21 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* Better profile image */
+.profile-img{
+  width: 220px;
+  height: 300px;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 12px;
+  border: 3px solid #e5e5e5;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+  display: block;
+  margin: 0 auto;
+}
+
+/* optional container */
+.author__avatar{
+  text-align:center;
+  margin-bottom: 15px;
+}
