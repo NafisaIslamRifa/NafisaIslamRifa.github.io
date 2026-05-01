@@ -10,6 +10,10 @@ location: "Bangladesh"
 
 Developed a forecasting system to predict future electricity demand in Bangladesh using historical energy and environmental data.
 
+## Project Links
+
+- [GitHub Repository](https://drive.google.com/file/d/1K0KKcEt2KWd_MmuHMCDg4KEw9US_PHWl/view)
+
 ## Key Contributions
 
 - Collected 10 years of electricity demand data from the PGCB website.
