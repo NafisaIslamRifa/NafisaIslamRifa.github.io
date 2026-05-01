@@ -41,7 +41,8 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-.profile-img {
+/* Better profile image */
+.profile-img{
   width: 220px;
   height: 300px;
   object-fit: cover;
@@ -53,7 +54,8 @@
   margin: 0 auto;
 }
 
-.author__avatar {
-  text-align: center;
+/* optional container */
+.author__avatar{
+  text-align:center;
   margin-bottom: 15px;
 }
