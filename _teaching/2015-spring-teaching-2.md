@@ -12,7 +12,7 @@ Developed a forecasting system to predict future electricity demand in Banglades
 
 ## Project Links
 
-- [GitHub Repository](https://drive.google.com/file/d/1K0KKcEt2KWd_MmuHMCDg4KEw9US_PHWl/view)
+- [Project Report](https://drive.google.com/file/d/1K0KKcEt2KWd_MmuHMCDg4KEw9US_PHWl/view)
 
 ## Key Contributions
 
