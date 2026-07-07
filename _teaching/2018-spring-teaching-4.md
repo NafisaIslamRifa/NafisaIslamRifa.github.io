@@ -12,7 +12,7 @@ Developed an automated recyclable waste classification system using transfer lea
 
 ## Project Links
 
-- [Project Repository](https://drive.google.com/file/d/1Zm19xsYHtqfpq2MA2XSY6QhgcujbgnIG/view?usp=sharing)
+- [Project Repository](https://drive.google.com/file/d/1yf-Q1AWs0MIDldkCt8jlRge0TTNXOvr6/view?usp=sharing)
 
 ## Key Contributions
 
