@@ -22,7 +22,7 @@ Developed an intelligent London Tube Assistant that combines Retrieval-Augmented
 
 ## Project Links
 
-- [GitHub Repository](https://github.com/your-username/your-repository)
+- [GitHub Repository](https://github.com/NafisaIslamRifa/Agentic-RAG-for-London-Tube-Assistant)
 - [YouTube Demo](https://www.youtube.com/watch?v=m0-3QXqZvxA)
 
 ## Technologies Used
