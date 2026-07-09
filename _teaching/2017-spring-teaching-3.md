@@ -1,5 +1,8 @@
 ---
-title: "Network Intrusion Detection"
+title: "A COMPARATIVE ANALYSIS OF MACHINE LEARNING AND
+LIGHTWEIGHT DEEP LEARNING MODELS FOR INTRUSION
+
+DETECTION SYSTEMS"
 collection: teaching
 type: "Cybersecurity / Machine Learning Project"
 permalink: /teaching/2025-network-intrusion-detection
