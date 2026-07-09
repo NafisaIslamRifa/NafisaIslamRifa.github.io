@@ -1,7 +1,7 @@
 ---
-title: "A COMPARATIVE ANALYSIS OF MACHINE LEARNING AND
-LIGHTWEIGHT DEEP LEARNING MODELS FOR INTRUSION
-DETECTION SYSTEMS"
+title: " MACHINE LEARNING AND
+LIGHTWEIGHT DEEP LEARNING MODELS FOR NETWORK INTRUSION
+DETECTION "
 collection: teaching
 type: "Cybersecurity / Machine Learning Project"
 permalink: /teaching/2025-network-intrusion-detection
