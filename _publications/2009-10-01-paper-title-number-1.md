@@ -1,7 +1,7 @@
 ---
 title: "Multimodal Emotion Recognition Using Visual and Thermal Image Fusion: A Deep Learning Approach"
 collection: publications
-category: manuscripts
+category: conference paper
 permalink: /publication/2025-05-10-multimodal-emotion-recognition
 excerpt: "This paper presents a multimodal emotion recognition framework that integrates visual and thermal image data using deep learning. The proposed approach leverages complementary features from both modalities to improve robustness under challenging conditions such as illumination variation and occlusion."
 date: 2025-05-10
