@@ -1,17 +1,11 @@
 ---
-title: "Build Large Language Model from Scratch"
-excerpt: "Developed a GPT-like Large Language Model from scratch based on Sebastian Raschka's book Build a Large Language Model (From Scratch).<br/><img src='/images/500x300.png'>"
+title: "Academic Scholarship at UIU"
+excerpt: "Awarded a 100% tuition waiver academic scholarship for outstanding academic performance at United International University."
 collection: portfolio
-date: 2025-01-01
+date: 2024-01-01
 ---
 
-## Build Large Language Model from Scratch (2025)
+## Academic Scholarship at United International University (UIU)
 
-Developed a GPT-like Large Language Model from scratch based on the book *Build a Large Language Model (From Scratch)* by Sebastian Raschka.
+Awarded an **Academic Scholarship** at **United International University (UIU)** for outstanding academic performance, receiving a **100% tuition waiver for 5 out of 10 trimesters**.
 
-### Key Highlights:
-- Implemented core transformer architecture components.
-- Built tokenization and embedding pipeline.
-- Trained autoregressive language model from scratch.
-- Explored attention mechanisms, positional encoding, and text generation.
-- Strengthened understanding of end-to-end LLM development and training workflows.
