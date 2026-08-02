@@ -17,8 +17,8 @@ main:
   - title: "Projects"
     url: /teaching/    
     
-  # - title: "Projects"
-  #   url: /portfolio/
+  - title: "Awards"
+    url: /portfolio/
         
   - title: "Services"
     url: /year-archive/
