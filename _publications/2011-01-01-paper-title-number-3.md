@@ -6,7 +6,7 @@ permalink: /publication/2026-09-08-video-moment-retrieval-survey
 excerpt: "This survey provides a unified review of Video Moment Retrieval (VMR) methods across traditional approaches, vision-language models, and multimodal large language models. It examines model architectures, benchmarks, evaluation practices, and emerging tasks while identifying important open challenges in video-language understanding."
 date: 2026-09-08
 venue: 'Submitted to Computer Vision and Image Understanding (CVIU), Elsevier.'
-paperurl: 'https://drive.google.com/file/d/1-m2m_uzdS2dq1Zf4iQnzOx92rWC8z9-r/view'
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7442027'
 bibtexurl: ''
 citation: '@ARTICLE{rifa2026vmr,
 title = {Video Moment Retrieval: A Survey of Methods, Benchmarks, and Open Challenges in the Multimodal LLM Era},
