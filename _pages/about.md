@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 MSc Data Science Student ,School of Computing and Mathematical Sciences 
-University of Greenwich
-Old Royal Naval College
-Park Row
+University of Greenwich,,
 Greenwich
 London
 SE10 9LS, UK
