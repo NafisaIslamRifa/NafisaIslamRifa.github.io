@@ -16,6 +16,16 @@ My research interests include **Computer Vision**, **Medical Image Analysis**, *
 
 I am passionate about developing trustworthy AI systems that solve real-world problems, particularly in healthcare, through explainable and multimodal artificial intelligence.
 
+## News
+
+* **2026:** Completed my **MSc in Data Science** at the University of Greenwich, UK.
+* **2026:** My paper, *“Visual Grounding and Explainability for Prompt-Driven Radiology Report Generation,”* was accepted at **MICAD 2026**.
+* **2026:** My survey on **Video Moment Retrieval** is under review at **Computer Vision and Image Understanding (Elsevier)**.
+* **2026:** Serving as a reviewer for **WiML at NeurIPS 2026** and the **MI4MedFM Workshop at MICCAI 2026**.
+* **2026:** Completed my **B.Sc. in Computer Science and Engineering** at United International University (UIU), Bangladesh.
+* **2024:** Co-authored a paper at **IEEE ICCIT 2024**, which received a **Best Technical Presentation Award**.
+
+
 
 
 
