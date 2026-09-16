@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-MSc Data Science Student ,School of Computing and Mathematical Sciences, 
-University of Greenwich,UK
+
 
 
 I am an **MSc Data Science** student at the **University of Greenwich, UK**, and a **B.Sc. graduate in Computer Science and Engineering** from **United International University (UIU), Bangladesh** .
