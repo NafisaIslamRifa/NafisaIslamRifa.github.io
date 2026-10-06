@@ -1,7 +1,7 @@
 ---
-title: " MACHINE LEARNING AND
-LIGHTWEIGHT DEEP LEARNING MODELS FOR NETWORK INTRUSION
-DETECTION "
+title: " Machine Learning and
+Lightweight Deep Learning Models for Network Intrusion
+Detection "
 collection: teaching
 type: "Cybersecurity / Machine Learning Project"
 permalink: /teaching/2025-network-intrusion-detection
