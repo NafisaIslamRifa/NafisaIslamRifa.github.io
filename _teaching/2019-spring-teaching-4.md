@@ -1,5 +1,5 @@
 ---
-title: "AGENTIC RAG POWERED LONDON TUBE ASSISTANT "
+title: "Agentic RAG Powered London Tube Assistant "
 collection: teaching
 type: "Applied AI / Retrieval-Augmented Generation (RAG)"
 permalink: /teaching/2026-agentic-rag-london-tube-assistant
