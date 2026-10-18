@@ -1,5 +1,5 @@
 ---
-title: "London NO2 Forecaster: End-to-End MLOps"
+title: "London Air Quality Forecaster: End-to-End MLOps"
 collection: teaching
 type: "Applied ML / MLOps / Time-Series Forecasting"
 permalink: /teaching/2026-london-no2-forecaster-mlops
