@@ -6,7 +6,7 @@ permalink: /publication/2026-09-04-visual-grounding-radiology-report-generation
 excerpt: "This paper presents a parameter-efficient multimodal framework for radiology report generation with visual grounding. The approach combines a frozen Rad-DINO vision encoder, a lightweight spatial adapter, and a parameter-efficient Qwen2.5-3B language model to generate radiology reports and, when prompted, corresponding localisation coordinates."
 date: 2026-09-04
 venue: 'Accepted for publication and presentation at 7th International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD 2026).'
-paperurl: 'https://drive.google.com/file/d/1IQNNWdiXM0mmZVe9uwBSnbmuaUKDNe4s/view?usp=sharing'
+paperurl: 'https://drive.google.com/file/d/1b6XvWuSkffZcBZe7qKOhUJQCSenafAuo/view'
 bibtexurl: ''
 citation: '@INPROCEEDINGS{micad2026_708,
 title = {Visual Grounding and Explainability for Prompt-Driven Radiology Report Generation},
