@@ -20,8 +20,8 @@ main:
   - title: "Services"
     url: /year-archive/
     
-  - title: "Certifications"
-    url: /talks/ 
+  # - title: "Certifications"
+  #   url: /talks/ 
     
   - title: "CV"
     url: /files/resume.pdf
