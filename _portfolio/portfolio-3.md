@@ -1,7 +1,7 @@
 
 ---
 title: "MICAD 2026 Certificate of Participation"
-excerpt: "Presented research on visual grounding and explainability for prompt-driven radiology report generation at MICAD 2026 in Edinburgh, United Kingdom."
+excerpt: "Presented research on visual grounding and explainability for prompt-driven radiology report generation at MICAD 2026 ."
 collection: portfolio
 date: 2026-10-23
 ---
